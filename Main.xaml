@@ -82,7 +82,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application: Calculator" sap:VirtualizedContainerService.HintSize="450,586" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="38f69f03-7ca1-432b-b021-8a4feb8d5b89" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application: Calculator windows" sap:VirtualizedContainerService.HintSize="450,586" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="38f69f03-7ca1-432b-b021-8a4feb8d5b89" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
